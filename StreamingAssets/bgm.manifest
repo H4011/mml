@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3172582197
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb7670e0d5773286689ecaf1c74d06a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Sour\u5F0F\u521D\u97F3\u30DF\u30AFVer.1.00/\u3010\u521D\u97F3\u30DF\u30AF\u3011-Hand-in-Hand-_Magical-Mirai-ver._-\u3010\u30DE\u30B7\u3099\u30AB\u30EB\u30DF\u30E9\u30A4-2015\u3011.wav"
+Dependencies: []
